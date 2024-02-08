@@ -1,0 +1,46 @@
+{
+    "Bathroom": {
+        "Description": "A grand bathroom, one only for the finest of masters. Looking around there seems to be some water on the floor by the sink. After perusing this room, you find: ",
+        "Medicine Cabinet": "This must be where the poison was obtained. There is a source of white powder along the sink. Whoever did this did it in a rush. Cyanide is our poison.",
+        "Bath": "No one seems to have used the bath since this morning. Water is mostly dried up along the edges.",
+        "Toilet": "Nothing seems to be out of the ordinary with this toilet."
+    },
+    "Kitchen": {
+        "Description": "The kitchen is neat and tidy, exactly what one would expect from a high-class French cook. Looking around, you find: ",
+        "Boiling Kettle": "The kettle is still boiling and left on. Someone must have forgotten this or left in a hurry.",
+        "Food Pantry": "Fresh produce and grains occupy the pantry. Nothing seems tampered here.",
+        "Utensils": "None of these utensils seem to be in disarray. In fact, most of them were in the washing machine that just finished, ready for lunch."
+    },
+    "Library": {
+        "Description": "The scene of the crime. The master lies here face down after choking on the poison. Books and maps adorn the shelves and walls. After paying your respects, you find: ",
+        "Bookshelves": "Through many of these books, a common theme seems to be fantasy and romance. The master was quite the avid reader.",
+        "Suspicious papers": "These papers were scattered on the table in a corner of the library. Within this stack of papers, you find a foreign passport from the cook. The papers seem to be about the cook’s deportation…"
+    },
+    "Master Bedroom": {
+        "Description": "A place of deluxe comfort. The luxurious bed with satin sheets looks undisturbed. Ornate dressers don the perimeter. After pacing around the room, you find: ",
+        "Dresser": "Many different types of clothes and accessories. Some drawers contain clothes that belong to a woman.",
+        "Drawer": "On top of a drawer is a letter addressed to the ex-wife professing their love. No name on this letter, but there are some watermarks on the paper.",
+        "Wardrobe": "The master contained a small variety of outfits. Suits and ties are scattered about, with only a few ready to be worn."
+    },
+    "Recreational Room": {
+        "Description": "A room for fun, and fun it is. It's got a pool table, an air hockey table, a ping pong table, and a table for board games. Though it's for games, there also seems to be a large horde of designer brand shoe boxes here. After collecting yourself, you look in the room to find: ",
+        "Toy Corner": "There are a ton of toys meant for children of different ages. This must be where the children come to play if he has guests over.",
+        "Package": "There seems to be a package that has not been open yet. It is addressed to the son.",
+        "Pool Table": "The pool table seems to be one of the finest around. It appears that all of the solids are in the pockets.",
+        "TV": "The TV shows a basketball game. Maybe I can watch the game later tonight."
+    },
+    "Dining Room": {
+        "Description": "The grand table makes its presence known in this room with its size. From one end to the other, this table is adorned with magnificently aged chairs. However, the table is half set up as if someone was interrupted in the middle of it. In this room, you can see: ",
+        "Family Insignia": "This insignia belongs to the Master’s family. What could it be doing here?",
+        "Tableware": "The tableware is well kept and made of silver. Nothing out of the ordinary",
+        "Windows": "All the windows are closed but the curtains are drawn back. Doesn’t seem like anyone could have entered."
+    },
+    "Courtyard": {
+        "Description": "Beyond the gilded gates of the courtyard lies the great mansion of the Regal Estates. Normally bustling with the activities of wealthy socialites, only the blinding lights of siren lights and dark blue of police officers remain. The four suspects stand before you. Who should I talk to now? ",
+        "Servant": "I was still in the dining room getting lunch ready. The master does love his afternoon tea however. Maybe check the library yourself to see what you can find, sir.",
+        "Ex-Wife": "I’ve only just arrived to pick up my belongings in the master bedroom. Preposterous claims will do you no good here, detective.",
+        "Cook": "I just finished cooking in the kitchen! There’s no way it was me, I had no time to prepare tea on top of lunch for the master!",
+        "Son": "My new shoes just came in and I was putting them on in the rec room, bro. I wanted to use the bathroom but someone was in there causing a ruckus. ",
+        "Deduce Murderer": "choose murderer"
+    }
+}
