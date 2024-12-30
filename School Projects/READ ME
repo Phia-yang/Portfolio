@@ -1,1 +1,5 @@
 Contains relevant school projects and .ipynbs
+
+CS319 Final Project contains a simulated question and answer format for the Master's 
+students. This required utilizing pandas to describe datasets. The dataset utilized
+is based off the Rec Well Project.
